@@ -1,0 +1,391 @@
+html, body {
+	background-color: #31343D;
+	color: #34495e;
+	height: 100%;
+	font-family: 'Roboto-reg';
+
+}
+
+@font-face { font-family: 'Raleway'; src: url('../fonts/Raleway-Light.ttf');}
+@font-face { font-family: 'Raleway-reg'; src: url('../fonts/Raleway-Regular.ttf');}
+@font-face { font-family: 'Raleway-med'; src: url('../fonts/Raleway-Medium.ttf');}
+@font-face { font-family: 'Raleway-EB'; src: url('../fonts/Raleway-ExtraBold.ttf');}
+@font-face { font-family: 'Roboto'; src: url('../fonts/Roboto/Roboto-Light.ttf');}
+@font-face { font-family: 'Roboto-reg'; src: url('../fonts/Roboto/Roboto-Regular.ttf');}
+@font-face { font-family: 'Roboto-med'; src: url('../fonts/Roboto/Roboto-Medium.ttf');}
+
+
+
+/* ------------------ Area Style'e Dashboard + Index ---------------*/
+
+body.login {
+	color: #ECF0F1;
+	font-family: 'Roboto';
+}
+
+body.login h2 {
+	font-family: 'Raleway-EB';
+}
+/* iki gawe navigation menu */
+#side-menu {
+	background-color: #2A2D35;
+	padding: 0px;
+	margin: 0px;
+}
+
+#side-menu .pos-fixed {
+	position: fixed;
+	left: 0px;
+}
+
+#side-menu .title-admin {
+	color:#ecf0f1;
+	background-color:#2980B9;
+	padding:15px;
+	margin:0px;
+	font-family: 'Raleway';
+}
+
+#side-menu .title-admin-div {
+	margin-bottom:50px;
+}
+
+
+#side-menu h1 {
+	color: #a1a1a1;
+	text-align: center;
+	margin: 10px;
+	font-size: 24px;
+	margin-bottom: 40px;
+}
+
+#side-menu ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+#side-menu a {
+	padding: 15px 20px;
+	text-decoration: none;
+	color: #939e9f;
+	font-size: 15px;
+	display: block;
+}
+
+#side-menu a:hover {
+	background-color: #383D47;
+	color: #ecf0f1;
+}
+
+
+#side-menu .active a {
+	color: #d9d9d9;
+	background-color: #31343D;
+}
+
+#side-menu .glyphicon {
+	margin-right: 6px;
+}
+
+#side-menu .collapseable {
+	border-left: 4px solid #3498db;
+	background-color: #24262D;
+}
+
+#side-menu .collapseable li {
+	padding-left: 20px;
+	padding-top: 5px;
+}
+
+#side-menu .collapseable a {
+	color: #d0d0d0;
+	font-size: 13px;
+	padding: 4px;
+	padding-left: 30px;
+	text-decoration: none;
+	display: block;
+	background-color: #24262D;
+}
+
+
+
+#side-menu .collapseable a:hover {
+	background-color: #24262D;
+}
+
+#side-menu .collapseable a:hover .hidden-xs {
+	color: #ffffff;
+}
+
+#side-menu .collapseable a:hover .glyphicon {
+	color: #3498db;
+}
+
+.fixed-navigation {
+	position: fixed;
+	width:225px;
+}
+.navbar-default {
+	background-color: #ECF0F1;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: #3498db;
+	background-color: #3498db;
+}
+.navbar-default .icon-bar {
+	border: 1px solid #fff;
+}
+
+.navbar-default .navbar-toggle:hover {
+	border-color: #3498db;
+	background-color: #3498db;
+}
+
+.navbar-default .navbar-toggle:focus {
+	border-color: #3498db;
+	background-color: #2980b9;
+}
+
+
+/*semua style content*/
+.display-table {
+	display: table;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+}
+
+.display-table-row {
+	display: table-row;
+	height: 100%;
+}
+
+.display-table-cell {
+	display: table-cell;
+	float: none;
+	height: 100%;
+}
+
+.valign-top {
+	vertical-align: top;
+}
+
+.form-control{
+    border-color:  #2f3337;
+    background-color: #242729;
+    color: #bdc3c7; 
+    text-transform: capitalize;
+
+}
+
+.form-control:focus {
+  border-color: #4f5864;
+  box-shadow: inset 0 1px 1px rgb(44, 62, 80), 0 0 8px rgb(40, 40, 46);
+}
+
+#content .content-inner input[readonly], input[readonly="readonly"] { 
+    border-color:  #2f3337;
+    background-color: #242729;
+    color: #bdc3c7; 
+}
+
+#content {
+	padding: 50px;
+/*	margin: 0px 0px 0px 0px;
+	background-color: #434956;
+	border: 15px #383d47 solid;
+	border-right:15px  #383d47 solid;
+	border-left:15px  #383d47 solid; */
+
+}
+
+#content .glyphicon-title {
+
+	font-size: 40px; 
+	color: #7F8C8D;
+}
+
+#content hr {
+	border-top: 1px dashed #8c8b8b; 
+}
+
+#content .content-inner .panel-group .panel-500 {
+	width: 400px;
+	height:300px;
+}
+
+#content .content-inner .panel-group .panel-samping {
+	position:absolute;
+	top: 500px;
+	left: 500px;
+	margin-right: 0px;
+}
+
+#content .content-inner .row .kotak{
+	padding: 15px;
+	margin-bottom: 30px;
+	background-color: #3B3D45;
+	color: #ECF0F1;
+	border-radius: 5px;
+}
+
+#content .content-inner .row .kotak .kotak-2{
+	padding: 25px;
+	background-color: #40424a;
+	color: #ECF0F1;
+	font-size: 60px;
+	border-radius: 5px;
+	font-family: 'Raleway-reg';
+}
+
+#content .content-inner .row .kotak .glyph-kotak{
+	padding: 15px;
+	padding-left:20px; 
+	padding-right:20px;
+	background-color: #525560;
+	border-radius: 10px;
+}
+
+#content .content-inner .row .kotak .hasil-hitungan{
+	color:#ECF0F1;
+	font-size: 70px;
+	float: right;
+	margin-top: -100px;
+	margin-right: 100px;
+}
+
+#content .content-inner .row .kotak .judul-atas{
+	color:#ecf0f1;
+	font-size: 15px;
+	float:right;
+	margin-top:-18px;
+}
+
+#content .content-inner .row .kotak .detail-label{
+	color:#a0aaab;
+	font-size: 20px;
+	float: right;
+	margin-top: -30px;
+	margin-right: -100px;
+}
+
+#content .content-inner .deskripsi-textbox{
+	color: white;
+	font-size: 14px;
+}
+
+#content .content-inner .deskripsi-sejajar{
+	float: left;
+	margin-top: -60px;
+	margin-left: 260px;
+}
+
+.title-page {
+	font-size: 30px;
+	margin: 0px;
+	color: #ECF0F1;
+/*	color: #95A5A6; */
+	font-family: 'Raleway-EB';
+}
+
+.containner{
+	padding: 5px;	
+}
+
+.form-wrapper {
+	background-color: #ECF0F1;
+	padding: 20px;
+}
+
+
+/* iki gawe main content */
+
+.box {
+	border: 1px red dotted;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #383D47;
+}
+
+.table-scroll {
+	width: 100%;
+	height: 400px;
+    overflow-y:scroll;
+    margin:-20px;
+    padding-left: 20px;
+}
+
+
+#cont-header {
+	background-color: #ECF0F1;
+	border-bottom: 1px solid;
+	border-color: #95a5a6;
+}
+
+#cont-header #cont-search-field {
+	padding-top: 10px;
+	vertical-align: center;
+	width: 300px;
+	border: none;
+	outline: none;
+}
+
+#cont-header ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	color: #676a6c;
+}
+
+#cont-header ul li {
+	float: left;
+	margin-left: 15px;
+	padding: 7px 0px;
+}
+
+#cont-header ul .glyphicon {
+	color: #676a6c;
+}
+
+.label-message {
+	background-color: #1ab394;
+}
+
+#cont-header ul a {
+	text-decoration: none;
+}
+
+#cont-header .logout:hover {
+	color: #676a6c;	
+}
+
+#cont-header .welcome {
+	font-family: 'Raleway-med';
+	color: #31343D;
+}
+
+#cont-header ul .label {
+	position: absolute;
+	margin-top: -10px;
+	margin-left: -5px;
+}
+
+#cont-header .fixed-width {
+	width: 35px;
+} 
+
+#admin-footer {
+	position: absolute;
+	width: 100%;
+	bottom: 0px;
+	background-color: #24262D;
+	padding: 13px;
+	font-size: 12px;
+	color: #7F8C8D;
+}
+
+/*------------------ Sampek Kene Area'e style Dashboard + Index ---------------*/

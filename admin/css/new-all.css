@@ -1,0 +1,28 @@
+/*------------------ Area Style Koleksi Baru---------------*/
+
+
+#content .black-white {
+	background-color: #2B2B2B; color:white;
+}
+
+#content .content-inner .half-width{
+/* width: 50%; */
+width: 500px;
+}
+
+#content .content-inner .sepertiga-width{
+/*width: 23%; */
+width: 245px;
+}
+
+#content .content-inner .sejajar {
+
+float:right; 
+margin-top:-35px;
+margin-right: -10px;
+}
+
+.label-min {
+	font-size: 12px;
+	color:#7f8c8d;
+}

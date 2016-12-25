@@ -1,0 +1,778 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"glyphicon-c",
+				"glyphicon-briefcase"
+			],
+			[
+				"gly",
+				"glyphicon"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"rale",
+				"Raleway-med"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"glyphicon",
+				"glyphicon"
+			],
+			[
+				"glyp",
+				"glyphicon-th"
+			],
+			[
+				"data",
+				"data_buku"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"C",
+				"COUNT"
+			],
+			[
+				"input",
+				"input_absensi"
+			],
+			[
+				"index",
+				"xml_get_current_byte_index"
+			],
+			[
+				"load",
+				"load_buku"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"TGL",
+				"TGL-KMB"
+			],
+			[
+				"JUDUL",
+				"JUDUL"
+			],
+			[
+				"GRBK",
+				"GRBK-2"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"KATEGORI",
+				"KATEGORI"
+			],
+			[
+				"PE",
+				"PENGARANG"
+			],
+			[
+				"P",
+				"PENERBIT"
+			],
+			[
+				"NO",
+				"NO"
+			],
+			[
+				"view",
+				"viewquery"
+			],
+			[
+				"cai",
+				"cariapa"
+			],
+			[
+				"td",
+				"td"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"NAMA",
+				"Nama"
+			],
+			[
+				"Ta",
+				"TAHUN"
+			],
+			[
+				"J",
+				"JUDUL"
+			],
+			[
+				"TAHUN",
+				"TAHUN"
+			],
+			[
+				"Pe",
+				"Pengarang"
+			],
+			[
+				"Em",
+				"EMAIL"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"inline-",
+				"inline-block"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"paddo",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"isbn",
+				"isbn_bk"
+			],
+			[
+				"tgl",
+				"tgl_ter"
+			],
+			[
+				"nm",
+				"nm_penerbit"
+			],
+			[
+				"s",
+				"strong"
+			],
+			[
+				"in",
+				"inline-table"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"tec",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"tal",
+				"table-cell"
+			],
+			[
+				"ta",
+				"table-row"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 10397,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "html ",
+		"selected_items":
+		[
+			[
+				"html ",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/b-project/admin"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/b-project/admin/list-pust.php",
+		"/C/xampp/htdocs/b-project/admin/css/default.css",
+		"/C/xampp/htdocs/b-project/admin/index.php",
+		"/C/xampp/htdocs/b-project/admin/Ngadimin.sublime-project",
+		"/C/xampp/htdocs/b-project/admin/edt-pust.php",
+		"/C/xampp/htdocs/b-project/admin/list-absensi.php",
+		"/C/xampp/htdocs/b-project/admin/list-krisar.php",
+		"/C/xampp/htdocs/b-project/admin/list-member.php",
+		"/C/xampp/htdocs/b-project/admin/list-trans.php",
+		"/C/xampp/htdocs/b-project/admin/new-member.html",
+		"/C/xampp/htdocs/b-project/admin/new-pust.html",
+		"/C/xampp/htdocs/b-project/admin/new-trans.html",
+		"/C/xampp/htdocs/b-project/admin/new-trans.php",
+		"/C/xampp/htdocs/b-project/admin/inspirasi 4.png",
+		"/C/xampp/htdocs/b-project/admin/php/post-new-trans.php",
+		"/C/xampp/htdocs/b-project/admin/php/edt-in-pust.php",
+		"/C/xampp/htdocs/b-project/admin/css/new-all.css",
+		"/C/xampp/htdocs/b-project/admin/php/del-in-krs.php",
+		"/C/xampp/htdocs/b-project/admin/js/default.js",
+		"/C/xampp/htdocs/b-project/landing/index.html",
+		"/C/xampp/htdocs/b-project/admin/index.html",
+		"/C/xampp/htdocs/b-project/landing/php/index.html",
+		"/C/xampp/htdocs/b-project/admin/php/post-new-pust.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/b-project/admin/php/del-in-member.php",
+		"/C/xampp/htdocs/b-project/admin/php/post-new-member.php",
+		"/G/wc2nt/ubook/index.php",
+		"/G/wc2nt/go.php",
+		"/G/wc2nt/index.php",
+		"/C/xampp/htdocs/b-project/landing/css/default.css",
+		"/C/xampp/htdocs/b-project/admin/js/data_chart.php",
+		"/C/xampp/htdocs/b-project/admin/js/chart_json.js",
+		"/C/xampp/htdocs/b-project/landing/TESTkobuk-mod.php",
+		"/C/Windows/System32/driverquery.exe",
+		"/C/xampp/htdocs/b-project/admin/php/filter-pust.php",
+		"/C/xampp/htdocs/b-project/anggit test/tes.html",
+		"/C/xampp/htdocs/b-project/CI/application/views/vlandingpage.php",
+		"/C/xampp/htdocs/b-project/CI/application/views/landingpage.php",
+		"/C/xampp/htdocs/b-project/CI/application/third_party/Landing page application/index.html",
+		"/C/xampp/htdocs/b-project/CI/application/views/landingpage.html",
+		"/C/xampp/htdocs/b-project/admin/php/tescount.js",
+		"/C/xampp/htdocs/b-project/landing/absensi.php",
+		"/C/xampp/htdocs/b-project/CI/application/config/autoload.php",
+		"/C/xampp/htdocs/b-project/CI/application/config/config.php",
+		"/C/xampp/htdocs/b-project/CI/application/views/vlist_buku.php",
+		"/C/xampp/htdocs/b-project/CI/application/models/mdata_buku.php",
+		"/C/xampp/htdocs/b-project/CI/application/controllers/buku.php",
+		"/C/xampp/htdocs/b-project/CI/application/config/database.php",
+		"/C/xampp/htdocs/b-project/CI/application/controllers/kelas.php",
+		"/C/xampp/htdocs/b-project/admin/teschart.html",
+		"/D/Database/plugin jquery/Chart.js-master/package.json",
+		"/C/xampp/htdocs/b-project/landing/krisar.html",
+		"/C/xampp/htdocs/b-project/landing/php/krisar-prs.php",
+		"/C/xampp/htdocs/b-project/admin/js/chart.min.js",
+		"/C/xampp/htdocs/b-project/admin/js/Chart/chart_data.js",
+		"/C/xampp/htdocs/b-project/admin/js/chart/chart-data.js",
+		"/C/xampp/htdocs/b-project/admin/js/new-all.js",
+		"/G/defaultCode.js",
+		"/C/xampp/htdocs/latihan/admin/transaksi/list-trans.php",
+		"/C/xampp/htdocs/hris/assets/js/custom.js",
+		"/C/xampp/htdocs/b-project/admin/js/morris/morris-data.js",
+		"/C/xampp/htdocs/b-project/admin/php/del-in-pust.php",
+		"/D/Database/plugin jquery/morris.js-0.5.1/morris.js-0.5.1/bower.json",
+		"/D/Database/plugin jquery/morris.js-0.5.1/morris.js-0.5.1/examples/lib/example.js",
+		"/C/xampp/htdocs/b-project/my-landing/index.html",
+		"/C/xampp/htdocs/b-project/my-landing/absensi.php",
+		"/C/xampp/htdocs/b-project/my-landing/krisar.html",
+		"/C/xampp/htdocs/b-project/my-landing/kobuk.php",
+		"/G/~~~~~~~TA/wc2nt/ipan/index.html",
+		"/G/~~~~~~~TA/wc2nt/ipan/default.css",
+		"/C/xampp/htdocs/b-project/my-landing/css/default.css",
+		"/C/xampp/htdocs/b-project/admin/php/login.php",
+		"/C/xampp/htdocs/b-project/admin/edt-in-pust.php",
+		"/G/~~~~~~~TA/list-trans.php",
+		"/C/xampp/htdocs/latihan/admin/transaksi/in-trans.php",
+		"/C/xampp/htdocs/latihan/admin/transaksi/del-pr-tr.php",
+		"/C/xampp/htdocs/latihan/admin/transaksi/edt-trans.php",
+		"/C/xampp/htdocs/b-project/admin/php/filter-kobuk.php",
+		"/C/xampp/htdocs/b-project/admin/test-filter.php",
+		"/C/xampp/htdocs/b-project/admin/php/filter.php",
+		"/G/Rey Web/ubook/index.php",
+		"/G/Rey Web/ubook/jq/jq1.js",
+		"/C/xampp/htdocs/Laravel/Perpusweb/resources/views/admin/laravel-develop.zip",
+		"/C/xampp/htdocs/Laravel/Perpusweb/resources/views/admin/index.blade.html",
+		"/C/xampp/htdocs/Laravel/Perpusweb/resources/views/admin/index.html",
+		"/C/xampp/htdocs/Laravel/Perpusweb/resources/views/index.html",
+		"/C/xampp/htdocs/Laravel/Perpusweb/resources/views/admin/index.php",
+		"/C/xampp/htdocs/Laravel/Perpusweb/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/Laravel/Perpusweb/app/Http/Controllers/APController.php",
+		"/C/xampp/htdocs/Laravel/Perpusweb/resources/views/welcome.blade.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/b-project/BackupAdmin/admin/css/default.css",
+		"/G/~~~~~~~~~TA/wc2nt/pinjam/status/bkup/index.php",
+		"/G/~~~~~~~~~TA/wc2nt/pinjam/status/go.php",
+		"/G/~~~~~~~~~TA/wc2nt/pinjam/status/index.php",
+		"/G/~~~~~~~~~TA/wc2nt/pinjam/status/jos.php",
+		"/G/~~~~~~~~~TA/wc2nt/pinjam/index.php",
+		"/G/~~~~~~~~~TA/wc2nt/pinjam/index.html",
+		"/G/~~~~~~~~~TA/wc2nt/add.php",
+		"/G/~~~~~~~~~TA/wc2nt/go.php",
+		"/C/xampp/htdocs/b-project/BackupAdmin/admin/css/new-all.css",
+		"/C/xampp/htdocs/b-project/admin/teschosen.html",
+		"/C/xampp/htdocs/b-project/my-landing/kobuk2.php",
+		"/C/xampp/htdocs/b-project/my-landing/php/absn-prs.php",
+		"/G/~~~~~~~~~TA/wc2nt/saran/index.php",
+		"/C/xampp/htdocs/b-project/my-landing/footerstyle/footer-distributed-with-address-and-phones.html",
+		"/G/wcl/wc/index.html",
+		"/C/xampp/htdocs/b-project/landing-page/css/freelancer.css",
+		"/C/xampp/htdocs/b-project/landing-page/index.html",
+		"/C/xampp/htdocs/b-project/admin/css/list-pust.css",
+		"/C/Windows/System32/drivers/etc/hosts bakcup",
+		"/C/xampp/htdocs/latihan/admin/transaksi/edt-pr-tr.php",
+		"/C/xampp/htdocs/b-project/admin/php/del-new-pust.php",
+		"/C/xampp/htdocs/b-project/admin/css/new-pust.css",
+		"/D/hosts",
+		"/C/Windows/System32/drivers/etc/hosts.txt",
+		"/C/Windows/System32/HOSTNAME.EXE",
+		"/C/xampp/htdocs/b-project/admin/php/index.php",
+		"/C/xampp/htdocs/b-project/admin/js/new-pust.js",
+		"/C/xampp/htdocs/b-project/admin/list-pust.html",
+		"/C/xampp/htdocs/b-project/admin/teslistpust.php",
+		"/C/xampp/htdocs/latihan/admin/transaksi/posts-pr-tr.php",
+		"/C/xampp/htdocs/latihan/list-buku.php",
+		"/C/xampp/htdocs/b-project/admin/css/lht-koleksi.css",
+		"/C/xampp/htdocs/b-project/framework/jquery/chosen/chosen.min.css",
+		"/C/xampp/htdocs/b-project/framework/jquery/chosen/chosen.jquery.min.js",
+		"/C/xampp/htdocs/b-project/admin/teschosen.bak.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"link",
+			"active",
+			"absensi",
+			"collapse",
+			"content",
+			"sejajar",
+			"hr",
+			"welcome",
+			"navbar",
+			"new-tran",
+			"60px",
+			"right",
+			"float-right",
+			"new-",
+			"\n                ",
+			"cari",
+			"form-control",
+			"content",
+			"\n                ",
+			">\n",
+			"content",
+			"1B2731",
+			"white",
+			"cloud",
+			"framework",
+			"fonts",
+			"fa",
+			"fa-",
+			"\t\t\t\n",
+			"select",
+			"  \t\t\t  }",
+			"helper",
+			"grey",
+			"form-control",
+			"display-inline",
+			"line",
+			"\n           ",
+			"ON",
+			"side-menu",
+			"default.js",
+			"side-menu",
+			"pos-fixe",
+			"donat",
+			"donut",
+			"kritik",
+			"list-member",
+			"btn",
+			"footer",
+			"footer-left",
+			";\n",
+			"footer",
+			"content",
+			"content-men",
+			"content",
+			"footer",
+			"footer-left",
+			"footer-school-about",
+			"footer",
+			"content",
+			"content-menu",
+			"\">",
+			"fa-lg",
+			"fa",
+			"search",
+			"JUDUL",
+			"admin panel",
+			"KATEGORI",
+			"half-width",
+			"half",
+			"form",
+			"filter",
+			"btn-filt",
+			"footer",
+			"link",
+			"list-absensi",
+			"php",
+			"admin",
+			"50px",
+			"#BDC3C7",
+			"side-menu .li",
+			"link",
+			" >",
+			"active",
+			"collapse",
+			"glyphicon",
+			"transparent",
+			"side-menu ",
+			"side-menu li",
+			"side-menu",
+			"side-menu ul",
+			"colapse",
+			"search",
+			"footer",
+			"navigation",
+			"side-menu a",
+			"glyphicon",
+			"glyph",
+			"menu",
+			"footer",
+			"menu",
+			"footer",
+			"\n           ",
+			"welcome",
+			"footer",
+			"content-absensi",
+			"footer",
+			"footer-right",
+			"25px",
+			"footer-company-about",
+			"footer-left",
+			"\n.",
+			"footer-distributed",
+			">\n",
+			"}",
+			"2980b9",
+			"2ecc71",
+			"27ae60",
+			"#474e5d;",
+			"body",
+			"navbar-header",
+			"navbar-fixed-top",
+			"navbar-default",
+			"kategori",
+			"new",
+			"chosen",
+			"isbn",
+			"content",
+			"new-pust"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"navbar-default"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Ngadimin.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"login.",
+				"php\\login.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
